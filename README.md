@@ -1,7 +1,3 @@
-I can't directly create a Markdown file (`.md`) or push files to GitHub using this app, but I can generate the content for your **README.md** based on the project files. You can copy and paste the following content into a file named `README.md` in your project's root directory before pushing to your repository.
-
------
-
 # Master's Project Report: Equitable Optimization
 
 ## Authors
@@ -24,7 +20,7 @@ The approach involved:
 
 ## Project Structure
 
-The implementation code is in the notebook [projetMOGPL.ipynb](https://drive.google.com/open?id=1BTgWxUr_yw4Wh52-jtBkJto0oqhN34GR) (FileChip1) and should be executed sequentially. The detailed report is available in the PDF file [Mogpl\_Proj.pdf](https://drive.google.com/open?id=1KIwr9itmiGB09DaEvfV94-Fb3u3hlOui) (FileChip2).
+The implementation code is in the notebook projetMOGPL.ipynb and should be executed sequentially. The detailed report is available in the PDF file Mogpl\_Proj.pdf.
 
 | Section      | Application                            | Main Objective                                                                               | Key Result (Example)                                                                                                                                                         |
 | :----------: | :------------------------------------: | :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
